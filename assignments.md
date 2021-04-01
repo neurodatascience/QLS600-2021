@@ -12,6 +12,6 @@
 	- Louis
 	- Student 3
 4. [simple 1](https://f1000research.com/articles/6-124/v2)
-	- Student 1
+	- Audrey Baguette
 	- Student 2
 	- Student 3
