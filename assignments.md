@@ -1,6 +1,6 @@
 
 1. [Reproducibility Project: Psychology](https://osf.io/ytpuq/wiki/home/)
-	- Student 1
+	- Ana Catarina Avila
 	- Student 2
 	- Student 3
 2. [datalad paper](http://handbook.datalad.org/en/latest/usecases/reproducible_neuroimaging_analysis.html)
