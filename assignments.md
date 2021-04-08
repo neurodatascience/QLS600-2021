@@ -3,6 +3,7 @@
 	- Ting-Yi
 	- Student 2
 	- Student 3
+	Project repo: https://github.com/wanchunsu/qlsc600_reproducibility_project
 2. [datalad paper](http://handbook.datalad.org/en/latest/usecases/reproducible_neuroimaging_analysis.html)
 	- Student 1 Mariana Carmona Baez
 	- Student 2
